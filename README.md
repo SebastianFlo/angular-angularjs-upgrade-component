@@ -1,5 +1,5 @@
-# angular-angularjs-upgrade
-Basic scaffolding for a AngularJs-Angular hybrid app.
+# angular-angularjs-upgrade-component
+Advanced concepts for upgrading AngularJs components to Angular
 
 ```
 npm i
@@ -8,4 +8,3 @@ npm i
 ng serve
 ```
 
-Inspired from nrwl.io hybrid app [link](https://github.com/nrwl/hybrid-sample)
